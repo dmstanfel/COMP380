@@ -3848,8 +3848,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-collapse {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 40px;
+  padding-left: 40px;
   overflow-x: visible;
   -webkit-overflow-scrolling: touch;
   border-top: 1px solid transparent;
@@ -3879,8 +3879,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-fixed-top .navbar-collapse,
   .navbar-static-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
-    padding-right: 0;
-    padding-left: 0;
+    padding-right: 10;
+    padding-left: 10;
   }
 }
 .navbar-fixed-top .navbar-collapse,
@@ -5956,7 +5956,7 @@ button.close {
   width: 20px;
   height: 20px;
   margin-top: -10px;
-  font-family: serif;
+  font-family: Helvetica;
 }
 .carousel-control .icon-prev:before {
   content: '\2039';
@@ -6003,7 +6003,7 @@ button.close {
   padding-bottom: 20px;
   color: #fff;
   text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, .6);
 }
 .carousel-caption .btn {
   text-shadow: none;
