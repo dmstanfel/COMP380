@@ -424,6 +424,14 @@ a:hover, a:focus, a:active {
   padding: 25px 15px;
   margin-bottom: 50px;
 }
+.page-heading-options{
+  background: #669acc no-repeat center;
+  background-size: cover;
+  min-height: 150px;
+  color: #fff;
+  padding: 25px 15px;
+  margin-bottom: 50px;
+}
 .page-heading .title-under {
   background: #fff;
 }
@@ -545,7 +553,7 @@ form .alert {
   display: block;
   margin: 5px auto;
   background: #1f76bd;
-  height: 1px;
+  height: 5px;
   width: 280px;
 }
 .title-under:after {
