@@ -1055,3 +1055,7 @@ form .alert {
   -webkit-animation-name: zoomIn;
   animation-name: zoomIn;
 }
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
